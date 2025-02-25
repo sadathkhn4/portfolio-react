@@ -1,135 +1,139 @@
 let resumeData = {
-  "imagebaseurl":"https://vanshikasingh.github.io/",
-  "name": "Vanshika Singh",
+  "imagebaseurl": "https://vanshikasingh.github.io/",
+  "name": "Sadath Ullah Khan Mohammed",
   "role": "Software Engineer",
-  "linkedinId":"linkedin.com/in/vanshika-singh-mcs",
+  "linkedinId": "linkedin.com/in/msadath",
   "skypeid": "",
-  "roleDescription": "I specialize in modernizing legacy systems and developing full-stack applications, with a keen interest in learning new technologies and leveraging AI for software solutions.",
-  "socialLinks":[
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/vanshika-singh-mcs/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/vanshikasingh0065",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"",
-        "className":"fa fa-skype"
-      }
-    ],
-  "aboutme":"I am currently pursuing my Master of Computer Science at North Carolina State University. I am a self-taught Full Stack Developer with experience in legacy system modernization and machine learning. I believe in continuous learning and staying obsessed with my dreams.",
-  "address":"Raleigh, NC, USA",
-  "website":"https://vanshikasingh.github.io",
-  "education":[
+  "roleDescription": "I specialize in developing full-stack applications and improving system efficiency, with a keen interest in learning new technologies and leveraging AI for software solutions.",
+  "socialLinks": [
     {
-      "UniversityName":"North Carolina State University, Raleigh, USA",
-      "specialization":"Master of Computer Science",
-      "MonthOfPassing":"May",
-      "YearOfPassing":"2025",
-      "Achievements":"GPA: 3.61/4"
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/msadath/",
+      "className": "fa fa-linkedin"
     },
     {
-      "UniversityName":"Chitkara University, Punjab, India",
-      "specialization":"Bachelor of Engineering in Computer Science",
-      "MonthOfPassing":"July",
-      "YearOfPassing":"2020",
-      "Achievements":"GPA: 3.6/4"
+      "name": "github",
+      "url": "https://github.com/sadathkhn4",
+      "className": "fa fa-github"
+    },
+    {
+      "name": "skype",
+      "url": "",
+      "className": "fa fa-skype"
     }
   ],
-  "work":[
+  "aboutme": "I have a Masters in Computer Science from Virginia Tech with 4.0 GPA. I am a self-taught Full Stack Developer with experience in legacy system modernization and machine learning. I believe in continuous learning and staying obsessed with my dreams.",
+  "address": "San Jose, CA, USA",
+  "website": "https://sadathkhn4.github.io",
+  "education": [
     {
-      "CompanyName":"Volvo Group, Greensboro, United States",
-      "specialization":"Software Engineer Intern",
-      "MonthOfLeaving":"Present",
-      "YearOfLeaving":"",
-      "Achievements":"Redesigned and developed outdated distributed microservices systems, implemented a CI/CD pipeline, and integrated Celery for asynchronous task management."
+      "UniversityName": "Virginia Tech, Blacksburg, USA",
+      "specialization": "Master of Computer Science",
+      "MonthOfPassing": "Dec",
+      "YearOfPassing": "2024",
+      "Achievements": "GPA: 4.0/4"
     },
     {
-      "CompanyName":"Priority Holdings, Chandigarh, India",
-      "specialization":"Software Engineer",
-      "MonthOfLeaving":"June",
-      "YearOfLeaving":"2023",
-      "Achievements":"Migrated system code and DB Queries, developed push notifications for mobile apps, enhanced API performance, and supervised a team of back-end developers."
-    },
-    {
-      "CompanyName":"Finxera India Pvt Ltd, Chandigarh, India",
-      "specialization":"Associate Software Engineer",
-      "MonthOfLeaving":"October",
-      "YearOfLeaving":"2021",
-      "Achievements":"Provided in-depth rapid analysis for production issues, developed an encryption model, and managed a team of 6 interns."
-    },
-    {
-      "CompanyName":"Finxera India Pvt Ltd, Chandigarh, India",
-      "specialization":"Software Engineer Intern",
-      "MonthOfLeaving":"July",
-      "YearOfLeaving":"2020",
-      "Achievements":"Designed and deployed IVR integration, integrated with Esker for document delivery, and built various APIs and jobs."
+      "UniversityName": "BITS Pilani, India",
+      "specialization": "Bachelor of Engineering",
+      "MonthOfPassing": "July",
+      "YearOfPassing": "2021",
+      "Achievements": "GPA: 3.6/4"
     }
   ],
-  "skillsDescription":"Technical Skills",
-  "skills":[
+  "work": [
     {
-      "skillname":"Java"
+      "CompanyName": "CGIT, Virginia Tech, United States",
+      "specialization": "Software Developer (Graduate Research Assistant)",
+      "MonthOfLeaving": "September",
+      "YearOfLeaving": "2024",
+      "Achievements": "Developed web applications for geospatial data processing, improved system efficiency by optimizing workflows, and built interactive data visualization tools."
     },
     {
-      "skillname":"ReactJS"
+      "CompanyName": "EXL Service, India",
+      "specialization": "Software Engineer",
+      "MonthOfLeaving": "December",
+      "YearOfLeaving": "2021",
+      "Achievements": "Designed and developed data analytics solutions, improved system performance, and created interactive dashboards for real-time financial insights."
     },
     {
-      "skillname":"NodeJS"
+      "CompanyName": "IMARC Services Pvt Ltd, India",
+      "specialization": "Software Developer",
+      "MonthOfLeaving": "March",
+      "YearOfLeaving": "2021",
+      "Achievements": "Built and enhanced user-friendly web interfaces, developed automation solutions for internal processes, and contributed to chatbot development for HR applications."
     },
     {
-      "skillname":"Python"
-    },
-    {
-      "skillname":"C++"
-    },
-    {
-      "skillname":"SQL"
-    },
-    {
-      "skillname":"JavaScript"
-    },
-    {
-      "skillname":"TypeScript"
-    },
-    {
-      "skillname":"C#"
-    },
-    {
-      "skillname":".NET"
-    },
-    {
-      "skillname":"Spring Boot"
-    },
-    {
-      "skillname":"Hibernate"
+      "CompanyName": "DAIMLER India Commercial Vehicles, India",
+      "specialization": "Machine Learning Intern",
+      "MonthOfLeaving": "July",
+      "YearOfLeaving": "2020",
+      "Achievements": "Automated quality inspection processes, reducing manual efforts and improving efficiency in manufacturing workflows."
     }
   ],
-  "portfolio":[
+
+  "skillsDescription": "Technical Skills",
+  "skills": [
     {
-      "name":"project1",
-      "description":"Legacy Software Modernization",
-      "imgurl":"images/portfolio/legacy_modernization.jpg"
+      "skillname": "Java"
     },
     {
-      "name":"project2",
-      "description":"Full Stack Development",
-      "imgurl":"images/portfolio/fullstack.jpg"
+      "skillname": "ReactJS"
+    },
+    {
+      "skillname": "NodeJS"
+    },
+    {
+      "skillname": "Python"
+    },
+    {
+      "skillname": "C++"
+    },
+    {
+      "skillname": "SQL"
+    },
+    {
+      "skillname": "JavaScript"
+    },
+    {
+      "skillname": "TypeScript"
+    },
+    {
+      "skillname": "AWS"
+    },
+    {
+      "skillname": "C#"
+    },
+    {
+      "skillname": ".NET"
+    },
+    {
+      "skillname": "Spring Boot"
+    },
+    {
+      "skillname": "Hibernate"
     }
   ],
-  "testimonials":[
+  "portfolio": [
     {
-      "description":"Vanshika demonstrated exceptional problem-solving skills and leadership qualities, significantly improving the performance of our systems.",
-      "name":"Technical Manager at Volvo Group"
+      "name": "project1",
+      "description": "Legacy Software Modernization",
+      "imgurl": "images/portfolio/legacy_modernization.jpg"
     },
     {
-      "description":"Vanshika's ability to migrate complex systems and manage teams made her an invaluable asset to our project.",
-      "name":"Manager at Priority Holdings"
+      "name": "project2",
+      "description": "Full Stack Development",
+      "imgurl": "images/portfolio/fullstack.jpg"
+    }
+  ],
+  "testimonials": [
+    {
+      "description": "Sadath consistently delivered high-quality code, enhancing user experience and driving impactful improvements. His collaboration skills made him a key contributor to our projects.",
+      "name": "Technical Lead at CGIT"
+    },
+    {
+      "description": "Sadath's ability to develop scalable applications and optimize data workflows made him an invaluable asset to our project.",
+      "name": "Manager at EXL Service"
     }
   ]
 }
