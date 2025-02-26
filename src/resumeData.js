@@ -118,12 +118,12 @@ let resumeData = {
     {
       "name": "project1",
       "description": "Legacy Software Modernization",
-      "imgurl": "images/portfolio/legacy_modernization.jpg"
+      "imgurl": "images/portfolio/origami.jpg"
     },
     {
       "name": "project2",
       "description": "Full Stack Development",
-      "imgurl": "images/portfolio/fullstack.jpg"
+      "imgurl": "images/portfolio/coffee.jpg"
     }
   ],
   "testimonials": [
