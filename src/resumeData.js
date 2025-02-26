@@ -116,14 +116,14 @@ let resumeData = {
   ],
   "portfolio": [
     {
-      "name": "project1",
-      "description": "Legacy Software Modernization",
-      "imgurl": "images/portfolio/origami.jpg"
+      "name": "CodeHort",
+      "description": "A collaborative coding application for developers",
+      "imgurl": "images/portfolio/codehort.png"
     },
     {
-      "name": "project2",
-      "description": "Full Stack Development",
-      "imgurl": "images/portfolio/coffee.jpg"
+      "name": "BookNest",
+      "description": "An e-commerce book store",
+      "imgurl": "images/portfolio/booknest.png"
     }
   ],
   "testimonials": [
